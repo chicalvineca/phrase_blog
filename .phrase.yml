@@ -1,0 +1,11 @@
+phrase:
+  access_token: 05b361ed2134f9051857db7bf17dae03467dbd2e3a3f7ee6798e53647d581b76
+  project_id: 82dc861ac97cdcc8b53962e56f53f194
+  file_format: yml
+
+  push:
+    sources:
+    - file: ./config/locales/<locale_name>.yml
+  pull:
+    targets:
+    - file: ./config/locales/<locale_name>.yml
