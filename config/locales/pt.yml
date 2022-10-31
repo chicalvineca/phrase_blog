@@ -3,4 +3,4 @@ pt:
   hello: Olá mundo
   this:
     is_a:
-      new_translation: "< Translation to pt >"
+      translation: This is a translation in portuguese
