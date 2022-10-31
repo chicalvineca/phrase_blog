@@ -6,6 +6,9 @@ phrase:
   push:
     sources:
     - file: ./config/locales/<locale_name>.yml
+    params:
+      update_translations: true
   pull:
     targets:
     - file: ./config/locales/<locale_name>.yml
+    
