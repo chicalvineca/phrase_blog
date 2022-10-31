@@ -3,4 +3,4 @@ en:
   hello: Hello world
   this:
     is_a:
-      new_translation: Something
+      translation: This is a translation in english
