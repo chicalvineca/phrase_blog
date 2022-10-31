@@ -1,3 +1,6 @@
 ---
 en:
   hello: Hello world
+  this:
+    is_a:
+      new_translation: "Something"
